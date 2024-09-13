@@ -56,7 +56,7 @@ terraform plan
 terraform apply
 ```
 
-Para destroir os recursos provisionados:
+Para destruir os recursos provisionados:
 
 ```bash
 cd <PATH>
